@@ -9,7 +9,7 @@ Description: A small python-script that handles renaming all files in a given pa
 Usage: 
 
   Linux:
-  `./hashRename [PATH/TO/DIR]`
+  `./hashRename.py [PATH/TO/DIR]`
   
   Windows:
-  `python3 hashRename [PATH/TO/DIR]`
+  `python3 hashRename.py [PATH/TO/DIR]`
